@@ -10,6 +10,6 @@ public class PromedioDeTresCalificaciones {
 		System.out.println("Ingrese calificación 3");
 		calificacion3 = obj.nextDouble();
 		promedio = (calificacion1+calificacion2+calificacion3)/3;
-		System.out.println("El promedio es: "+promedio);
+		System.out.println("El promedio es: " + promedio);
 	}
 }

@@ -3,7 +3,7 @@ public class MayorMenorEdad {
 	public static void main(String[] args) {
 		Scanner obj = new Scanner(System.in);
 		int edad;
-		System.out.println("Ingrese su edad: ");
+		System.out.println("Ingrese su edad. ");
 		edad = obj.nextInt();
 		//Condición que se debe cumplir.
 		if(edad>=18) {
